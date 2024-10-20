@@ -1,0 +1,26 @@
+{
+  "name": "webpack_4_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "rm -rf build && rm dist/index.html && webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.2",
+    "webpack": "^4.47.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.15.2"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": ">=20.0 <20.9",
+    "npm": ">=9 <=10"
+  }
+}
