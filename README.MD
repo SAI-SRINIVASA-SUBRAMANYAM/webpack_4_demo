@@ -3,7 +3,7 @@
 <hr />
 
 - This project is to get basic of what is WebPack how to configure it and how to play with it!
-- Built of WebPackPack version 4
+- Built on WebPackPack version 4
 
 ## Commands
 
