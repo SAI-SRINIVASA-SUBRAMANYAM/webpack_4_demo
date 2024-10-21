@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "rm -rf build && rm dist/index.html && webpack"
+    "build": "rm -rf build && webpack"
   },
   "keywords": [],
   "author": "",
